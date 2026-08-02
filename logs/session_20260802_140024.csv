@@ -1,0 +1,610 @@
+time,frame,face_detected,confidence,emotion,gaze,alert_level,reason
+14:00:40,0,No face,0.0,neutral,OUT OF FRAME,CLEAR,
+14:00:40,1,No face,0.0,neutral,OUT OF FRAME,CLEAR,
+14:00:40,2,No face,0.0,neutral,OUT OF FRAME,CLEAR,
+14:00:40,3,No face,0.0,neutral,OUT OF FRAME,CLEAR,
+14:00:40,4,No face,0.0,neutral,CENTER,CLEAR,
+14:00:40,5,Unknown,88.8,neutral,CENTER,HIGH,wrong_face
+14:00:40,6,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:40,7,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,8,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,9,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,10,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,11,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,12,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,13,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,14,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,15,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,16,No face,88.8,neutral,CENTER,CLEAR,
+14:00:41,17,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,18,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,19,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,20,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,21,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,22,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,23,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,24,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,25,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,26,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,27,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:41,28,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:42,29,No face,88.8,neutral,OUT OF FRAME,CLEAR,
+14:00:42,30,Unknown,80.1,neutral,CENTER,HIGH,wrong_face
+14:00:42,31,Unknown,80.1,neutral,CENTER,HIGH,wrong_face
+14:00:42,32,Unknown,80.1,neutral,CENTER,HIGH,wrong_face
+14:00:42,33,Unknown,80.1,neutral,CENTER,HIGH,wrong_face
+14:00:42,34,Unknown,80.1,neutral,CENTER,HIGH,wrong_face
+14:00:42,35,Unknown,74.5,neutral,CENTER,HIGH,wrong_face
+14:00:42,36,Unknown,74.5,neutral,CENTER,HIGH,wrong_face
+14:00:42,37,No face,74.5,neutral,OUT OF FRAME,CLEAR,
+14:00:42,38,No face,74.5,neutral,CENTER,CLEAR,
+14:00:42,39,No face,74.5,neutral,OUT OF FRAME,CLEAR,
+14:00:42,40,No face,74.5,neutral,OUT OF FRAME,CLEAR,
+14:00:42,41,No face,74.5,neutral,OUT OF FRAME,CLEAR,
+14:00:42,42,No face,74.5,neutral,CENTER,CLEAR,
+14:00:42,43,No face,74.5,neutral,OUT OF FRAME,CLEAR,
+14:00:42,44,No face,74.5,neutral,OUT OF FRAME,CLEAR,
+14:00:42,45,Unknown,82.0,neutral,CENTER,HIGH,wrong_face
+14:00:43,46,Unknown,82.0,neutral,CENTER,HIGH,wrong_face
+14:00:43,47,No face,82.0,neutral,OUT OF FRAME,CLEAR,
+14:00:43,48,No face,82.0,neutral,OUT OF FRAME,CLEAR,
+14:00:43,49,No face,82.0,neutral,OUT OF FRAME,CLEAR,
+14:00:43,50,Unknown,83.1,neutral,CENTER,HIGH,wrong_face
+14:00:43,51,Unknown,83.1,neutral,CENTER,HIGH,wrong_face
+14:00:43,52,Unknown,83.1,neutral,CENTER,HIGH,wrong_face
+14:00:43,53,Unknown,83.1,neutral,CENTER,HIGH,wrong_face
+14:00:43,54,Unknown,83.1,neutral,CENTER,HIGH,wrong_face
+14:00:43,55,No face,83.1,neutral,OUT OF FRAME,CLEAR,
+14:00:43,56,No face,83.1,neutral,CENTER,CLEAR,
+14:00:43,57,No face,83.1,neutral,CENTER,CLEAR,
+14:00:43,58,No face,83.1,neutral,CENTER,CLEAR,
+14:00:43,59,No face,83.1,neutral,CENTER,CLEAR,
+14:00:43,60,Unknown,81.7,neutral,CENTER,HIGH,wrong_face
+14:00:43,61,Unknown,81.7,neutral,CENTER,HIGH,wrong_face
+14:00:44,62,Unknown,81.7,neutral,CENTER,HIGH,wrong_face
+14:00:44,63,Unknown,81.7,neutral,CENTER,HIGH,wrong_face
+14:00:44,64,Unknown,81.7,neutral,CENTER,HIGH,wrong_face
+14:00:44,65,Unknown,81.1,neutral,CENTER,HIGH,wrong_face
+14:00:44,66,Unknown,81.1,neutral,CENTER,HIGH,wrong_face
+14:00:44,67,Unknown,81.1,neutral,CENTER,HIGH,wrong_face
+14:00:44,68,Unknown,81.1,neutral,CENTER,HIGH,wrong_face
+14:00:44,69,Unknown,81.1,neutral,CENTER,HIGH,wrong_face
+14:00:44,70,Unknown,79.9,neutral,CENTER,HIGH,wrong_face
+14:00:44,71,Unknown,79.9,neutral,CENTER,HIGH,wrong_face
+14:00:44,72,Unknown,79.9,neutral,CENTER,HIGH,wrong_face
+14:00:44,73,Unknown,79.9,neutral,CENTER,HIGH,wrong_face
+14:00:44,74,Unknown,79.9,neutral,CENTER,HIGH,wrong_face
+14:00:44,75,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:00:44,76,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:00:44,77,No face,86.3,neutral,OUT OF FRAME,CLEAR,
+14:00:44,78,No face,86.3,neutral,CENTER,CLEAR,
+14:00:44,79,No face,86.3,neutral,CENTER,CLEAR,
+14:00:45,80,Unknown,88.8,neutral,CENTER,HIGH,wrong_face
+14:00:45,81,Unknown,88.8,neutral,CENTER,HIGH,wrong_face
+14:00:45,82,Unknown,88.8,neutral,CENTER,HIGH,wrong_face
+14:00:45,83,Unknown,88.8,neutral,CENTER,HIGH,wrong_face
+14:00:45,84,Unknown,88.8,neutral,CENTER,HIGH,wrong_face
+14:00:45,85,Unknown,83.5,neutral,CENTER,HIGH,wrong_face
+14:00:45,86,Unknown,83.5,neutral,CENTER,HIGH,wrong_face
+14:00:45,87,Unknown,83.5,neutral,CENTER,HIGH,wrong_face
+14:00:45,88,Unknown,83.5,neutral,CENTER,HIGH,wrong_face
+14:00:45,89,Unknown,83.5,neutral,CENTER,HIGH,wrong_face
+14:00:45,90,Unknown,84.1,neutral,CENTER,HIGH,wrong_face
+14:00:45,91,Unknown,84.1,neutral,CENTER,HIGH,wrong_face
+14:00:45,92,Unknown,84.1,neutral,CENTER,HIGH,wrong_face
+14:00:45,93,Unknown,84.1,neutral,CENTER,HIGH,wrong_face
+14:00:45,94,Unknown,84.1,neutral,CENTER,HIGH,wrong_face
+14:00:46,95,Unknown,80.3,neutral,CENTER,HIGH,wrong_face
+14:00:46,96,Unknown,80.3,neutral,CENTER,HIGH,wrong_face
+14:00:46,97,Unknown,80.3,neutral,CENTER,HIGH,wrong_face
+14:00:46,98,Unknown,80.3,neutral,CENTER,HIGH,wrong_face
+14:00:46,99,Unknown,80.3,neutral,CENTER,HIGH,wrong_face
+14:00:46,100,Unknown,80.2,neutral,CENTER,HIGH,wrong_face
+14:00:46,101,Unknown,80.2,neutral,CENTER,HIGH,wrong_face
+14:00:46,102,Unknown,80.2,neutral,CENTER,HIGH,wrong_face
+14:00:46,103,Unknown,80.2,neutral,CENTER,HIGH,wrong_face
+14:00:46,104,Unknown,80.2,neutral,CENTER,HIGH,wrong_face
+14:00:46,105,Unknown,80.0,neutral,CENTER,HIGH,wrong_face
+14:00:46,106,Unknown,80.0,neutral,CENTER,HIGH,wrong_face
+14:00:46,107,No face,80.0,neutral,OUT OF FRAME,CLEAR,
+14:00:46,108,No face,80.0,neutral,CENTER,CLEAR,
+14:00:46,109,No face,80.0,neutral,CENTER,CLEAR,
+14:00:46,110,Unknown,80.5,neutral,CENTER,HIGH,wrong_face
+14:00:47,111,Unknown,80.5,neutral,CENTER,HIGH,wrong_face
+14:00:47,112,Unknown,80.5,neutral,CENTER,HIGH,wrong_face
+14:00:47,113,Unknown,80.5,neutral,CENTER,HIGH,wrong_face
+14:00:47,114,Unknown,80.5,neutral,CENTER,HIGH,wrong_face
+14:00:47,115,Unknown,80.6,neutral,CENTER,HIGH,wrong_face
+14:00:47,116,Unknown,80.6,neutral,CENTER,HIGH,wrong_face
+14:00:47,117,Unknown,80.6,neutral,CENTER,HIGH,wrong_face
+14:00:47,118,Unknown,80.6,neutral,CENTER,HIGH,wrong_face
+14:00:47,119,Unknown,80.6,neutral,CENTER,HIGH,wrong_face
+14:00:47,120,No face,80.6,neutral,OUT OF FRAME,CLEAR,
+14:00:47,121,No face,80.6,neutral,CENTER,CLEAR,
+14:00:47,122,No face,80.6,neutral,OUT OF FRAME,CLEAR,
+14:00:47,123,No face,80.6,neutral,CENTER,CLEAR,
+14:00:47,124,No face,80.6,neutral,CENTER,CLEAR,
+14:00:47,125,Unknown,81.8,neutral,CENTER,HIGH,wrong_face
+14:00:47,126,No face,81.8,neutral,OUT OF FRAME,CLEAR,
+14:00:47,127,No face,81.8,neutral,CENTER,CLEAR,
+14:00:47,128,No face,81.8,neutral,OUT OF FRAME,CLEAR,
+14:00:47,129,No face,81.8,neutral,OUT OF FRAME,CLEAR,
+14:00:47,130,Unknown,83.0,neutral,CENTER,HIGH,wrong_face
+14:00:48,131,No face,83.0,neutral,OUT OF FRAME,CLEAR,
+14:00:48,132,No face,83.0,neutral,CENTER,CLEAR,
+14:00:48,133,No face,83.0,neutral,CENTER,CLEAR,
+14:00:48,134,No face,83.0,neutral,CENTER,CLEAR,
+14:00:48,135,Unknown,82.5,neutral,CENTER,HIGH,wrong_face
+14:00:48,136,Unknown,82.5,neutral,CENTER,HIGH,wrong_face
+14:00:48,137,Unknown,82.5,neutral,CENTER,HIGH,wrong_face
+14:00:48,138,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:48,139,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:48,140,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:48,141,No face,82.5,neutral,CENTER,CLEAR,
+14:00:48,142,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:48,143,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:48,144,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:48,145,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:48,146,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:48,147,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:48,148,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:48,149,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:48,150,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:48,151,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:48,152,No face,82.5,neutral,CENTER,CLEAR,
+14:00:48,153,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:48,154,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:49,155,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:49,156,No face,82.5,neutral,CENTER,CLEAR,
+14:00:49,157,No face,82.5,neutral,CENTER,CLEAR,
+14:00:49,158,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:49,159,No face,82.5,neutral,OUT OF FRAME,CLEAR,
+14:00:49,160,Unknown,103.4,neutral,CENTER,HIGH,wrong_face
+14:00:49,161,No face,103.4,neutral,OUT OF FRAME,CLEAR,
+14:00:49,162,No face,103.4,neutral,CENTER,CLEAR,
+14:00:49,163,No face,103.4,neutral,OUT OF FRAME,CLEAR,
+14:00:49,164,No face,103.4,neutral,OUT OF FRAME,CLEAR,
+14:00:49,165,Unknown,98.2,neutral,CENTER,HIGH,wrong_face
+14:00:49,166,No face,98.2,neutral,OUT OF FRAME,CLEAR,
+14:00:49,167,No face,98.2,neutral,OUT OF FRAME,CLEAR,
+14:00:49,168,No face,98.2,neutral,CENTER,CLEAR,
+14:00:49,169,No face,98.2,neutral,CENTER,CLEAR,
+14:00:49,170,Unknown,88.8,neutral,CENTER,HIGH,wrong_face
+14:00:49,171,Unknown,88.8,neutral,CENTER,HIGH,wrong_face
+14:00:49,172,Unknown,88.8,neutral,CENTER,HIGH,wrong_face
+14:00:49,173,Unknown,88.8,neutral,CENTER,HIGH,wrong_face
+14:00:49,174,Unknown,88.8,neutral,CENTER,HIGH,wrong_face
+14:00:49,175,Unknown,85.9,neutral,CENTER,HIGH,wrong_face
+14:00:50,176,Unknown,85.9,neutral,CENTER,HIGH,wrong_face
+14:00:50,177,No face,85.9,neutral,OUT OF FRAME,CLEAR,
+14:00:50,178,No face,85.9,neutral,CENTER,CLEAR,
+14:00:50,179,No face,85.9,neutral,OUT OF FRAME,CLEAR,
+14:00:50,180,Unknown,90.8,neutral,CENTER,HIGH,wrong_face
+14:00:50,181,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,182,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,183,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,184,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,185,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,186,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,187,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,188,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,189,No face,90.8,neutral,CENTER,CLEAR,
+14:00:50,190,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,191,No face,90.8,neutral,CENTER,CLEAR,
+14:00:50,192,No face,90.8,neutral,CENTER,CLEAR,
+14:00:50,193,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,194,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,195,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,196,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,197,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,198,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,199,No face,90.8,neutral,CENTER,CLEAR,
+14:00:50,200,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,201,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,202,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,203,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:50,204,No face,90.8,neutral,OUT OF FRAME,CLEAR,
+14:00:51,205,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:00:51,206,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:00:51,207,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:00:51,208,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:00:51,209,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:00:51,210,No face,86.3,neutral,OUT OF FRAME,CLEAR,
+14:00:51,211,No face,86.3,neutral,CENTER,CLEAR,
+14:00:51,212,No face,86.3,neutral,CENTER,CLEAR,
+14:00:51,213,No face,86.3,neutral,OUT OF FRAME,CLEAR,
+14:00:51,214,No face,86.3,neutral,CENTER,CLEAR,
+14:00:51,215,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:00:51,216,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:00:51,217,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:00:51,218,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:00:51,219,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:00:51,220,Unknown,83.4,neutral,CENTER,HIGH,wrong_face
+14:00:51,221,No face,83.4,neutral,OUT OF FRAME,CLEAR,
+14:00:51,222,No face,83.4,neutral,OUT OF FRAME,CLEAR,
+14:00:51,223,No face,83.4,neutral,OUT OF FRAME,CLEAR,
+14:00:51,224,No face,83.4,neutral,OUT OF FRAME,CLEAR,
+14:00:51,225,No face,83.4,neutral,OUT OF FRAME,CLEAR,
+14:00:51,226,No face,83.4,neutral,CENTER,CLEAR,
+14:00:52,227,No face,83.4,neutral,OUT OF FRAME,CLEAR,
+14:00:52,228,No face,83.4,neutral,CENTER,CLEAR,
+14:00:52,229,No face,83.4,neutral,CENTER,CLEAR,
+14:00:52,230,Unknown,85.9,neutral,CENTER,HIGH,wrong_face
+14:00:52,231,Unknown,85.9,neutral,CENTER,HIGH,wrong_face
+14:00:52,232,Unknown,85.9,neutral,CENTER,HIGH,wrong_face
+14:00:52,233,Unknown,85.9,neutral,CENTER,HIGH,wrong_face
+14:00:52,234,Unknown,85.9,neutral,CENTER,HIGH,wrong_face
+14:00:52,235,Unknown,84.5,neutral,CENTER,HIGH,wrong_face
+14:00:52,236,Unknown,84.5,neutral,CENTER,HIGH,wrong_face
+14:00:52,237,Unknown,84.5,neutral,CENTER,HIGH,wrong_face
+14:00:52,238,Unknown,84.5,neutral,CENTER,HIGH,wrong_face
+14:00:52,239,Unknown,84.5,neutral,CENTER,HIGH,wrong_face
+14:00:52,240,Unknown,84.2,neutral,CENTER,HIGH,wrong_face
+14:00:52,241,Unknown,84.2,neutral,CENTER,HIGH,wrong_face
+14:00:52,242,Unknown,84.2,neutral,CENTER,HIGH,wrong_face
+14:00:52,243,Unknown,84.2,neutral,CENTER,HIGH,wrong_face
+14:00:52,244,Unknown,84.2,neutral,CENTER,HIGH,wrong_face
+14:00:53,245,Unknown,82.3,neutral,CENTER,HIGH,wrong_face
+14:00:53,246,Unknown,82.3,neutral,CENTER,HIGH,wrong_face
+14:00:53,247,Unknown,82.3,neutral,CENTER,HIGH,wrong_face
+14:00:53,248,Unknown,82.3,neutral,CENTER,HIGH,wrong_face
+14:00:53,249,Unknown,82.3,neutral,CENTER,HIGH,wrong_face
+14:00:53,250,Unknown,82.1,neutral,CENTER,HIGH,wrong_face
+14:00:53,251,Unknown,82.1,neutral,CENTER,HIGH,wrong_face
+14:00:53,252,Unknown,82.1,neutral,CENTER,HIGH,wrong_face
+14:00:53,253,Unknown,82.1,neutral,CENTER,HIGH,wrong_face
+14:00:53,254,Unknown,82.1,neutral,CENTER,HIGH,wrong_face
+14:00:53,255,Unknown,82.6,neutral,CENTER,HIGH,wrong_face
+14:00:53,256,Unknown,82.6,neutral,CENTER,HIGH,wrong_face
+14:00:53,257,Unknown,82.6,neutral,CENTER,HIGH,wrong_face
+14:00:53,258,Unknown,82.6,neutral,CENTER,HIGH,wrong_face
+14:00:53,259,Unknown,82.6,neutral,CENTER,HIGH,wrong_face
+14:00:54,260,Unknown,81.1,neutral,CENTER,HIGH,wrong_face
+14:00:54,261,Unknown,81.1,neutral,CENTER,HIGH,wrong_face
+14:00:54,262,Unknown,81.1,neutral,CENTER,HIGH,wrong_face
+14:00:54,263,Unknown,81.1,neutral,CENTER,HIGH,wrong_face
+14:00:54,264,Unknown,81.1,neutral,CENTER,HIGH,wrong_face
+14:00:54,265,Unknown,82.6,neutral,CENTER,HIGH,wrong_face
+14:00:54,266,Unknown,82.6,neutral,CENTER,HIGH,wrong_face
+14:00:54,267,Unknown,82.6,neutral,CENTER,HIGH,wrong_face
+14:00:54,268,Unknown,82.6,neutral,CENTER,HIGH,wrong_face
+14:00:54,269,Unknown,82.6,neutral,CENTER,HIGH,wrong_face
+14:00:54,270,Unknown,82.7,neutral,CENTER,HIGH,wrong_face
+14:00:54,271,Unknown,82.7,neutral,CENTER,HIGH,wrong_face
+14:00:54,272,Unknown,82.7,neutral,CENTER,HIGH,wrong_face
+14:00:54,273,Unknown,82.7,neutral,CENTER,HIGH,wrong_face
+14:00:54,274,Unknown,82.7,neutral,CENTER,HIGH,wrong_face
+14:00:54,275,Unknown,83.4,neutral,CENTER,HIGH,wrong_face
+14:00:55,276,Unknown,83.4,neutral,CENTER,HIGH,wrong_face
+14:00:55,277,Unknown,83.4,neutral,CENTER,HIGH,wrong_face
+14:00:55,278,Unknown,83.4,neutral,CENTER,HIGH,wrong_face
+14:00:55,279,Unknown,83.4,neutral,CENTER,HIGH,wrong_face
+14:00:55,280,Unknown,82.9,neutral,CENTER,HIGH,wrong_face
+14:00:55,281,Unknown,82.9,neutral,CENTER,HIGH,wrong_face
+14:00:55,282,Unknown,82.9,neutral,CENTER,HIGH,wrong_face
+14:00:55,283,Unknown,82.9,neutral,CENTER,HIGH,wrong_face
+14:00:55,284,Unknown,82.9,neutral,CENTER,HIGH,wrong_face
+14:00:55,285,Unknown,90.3,neutral,CENTER,HIGH,wrong_face
+14:00:55,286,Unknown,90.3,neutral,CENTER,HIGH,wrong_face
+14:00:55,287,Unknown,90.3,neutral,CENTER,HIGH,wrong_face
+14:00:55,288,Unknown,90.3,neutral,CENTER,HIGH,wrong_face
+14:00:55,289,Unknown,90.3,neutral,CENTER,HIGH,wrong_face
+14:00:55,290,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:55,291,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:56,292,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:56,293,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:56,294,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:56,295,Unknown,86.9,neutral,CENTER,HIGH,wrong_face
+14:00:56,296,Unknown,86.9,neutral,CENTER,HIGH,wrong_face
+14:00:56,297,Unknown,86.9,neutral,CENTER,HIGH,wrong_face
+14:00:56,298,Unknown,86.9,neutral,CENTER,HIGH,wrong_face
+14:00:56,299,Unknown,86.9,neutral,CENTER,HIGH,wrong_face
+14:00:56,300,Unknown,86.9,neutral,CENTER,HIGH,wrong_face
+14:00:56,301,Unknown,86.9,neutral,CENTER,HIGH,wrong_face
+14:00:56,302,Unknown,86.9,neutral,CENTER,HIGH,wrong_face
+14:00:56,303,Unknown,86.9,neutral,CENTER,HIGH,wrong_face
+14:00:56,304,Unknown,86.9,neutral,CENTER,HIGH,wrong_face
+14:00:56,305,Unknown,87.3,neutral,CENTER,HIGH,wrong_face
+14:00:56,306,Unknown,87.3,neutral,CENTER,HIGH,wrong_face
+14:00:56,307,Unknown,87.3,neutral,CENTER,HIGH,wrong_face
+14:00:57,308,Unknown,87.3,neutral,CENTER,HIGH,wrong_face
+14:00:57,309,Unknown,87.3,neutral,CENTER,HIGH,wrong_face
+14:00:57,310,Unknown,86.1,neutral,CENTER,HIGH,wrong_face
+14:00:57,311,Unknown,86.1,neutral,CENTER,HIGH,wrong_face
+14:00:57,312,Unknown,86.1,neutral,CENTER,HIGH,wrong_face
+14:00:57,313,Unknown,86.1,neutral,CENTER,HIGH,wrong_face
+14:00:57,314,Unknown,86.1,neutral,CENTER,HIGH,wrong_face
+14:00:57,315,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:00:57,316,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:00:57,317,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:00:57,318,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:00:57,319,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:00:57,320,Unknown,87.6,neutral,CENTER,HIGH,wrong_face
+14:00:57,321,Unknown,87.6,neutral,CENTER,HIGH,wrong_face
+14:00:57,322,Unknown,87.6,neutral,CENTER,HIGH,wrong_face
+14:00:57,323,Unknown,87.6,neutral,CENTER,HIGH,wrong_face
+14:00:58,324,Unknown,87.6,neutral,CENTER,HIGH,wrong_face
+14:00:58,325,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:58,326,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:58,327,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:58,328,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:58,329,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:58,330,Unknown,89.3,neutral,CENTER,HIGH,wrong_face
+14:00:58,331,Unknown,89.3,neutral,CENTER,HIGH,wrong_face
+14:00:58,332,Unknown,89.3,neutral,CENTER,HIGH,wrong_face
+14:00:58,333,Unknown,89.3,neutral,CENTER,HIGH,wrong_face
+14:00:58,334,Unknown,89.3,neutral,CENTER,HIGH,wrong_face
+14:00:58,335,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:58,336,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:58,337,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:58,338,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:58,339,Unknown,86.5,neutral,CENTER,HIGH,wrong_face
+14:00:59,340,Unknown,92.4,neutral,CENTER,HIGH,wrong_face
+14:00:59,341,Unknown,92.4,neutral,CENTER,HIGH,wrong_face
+14:00:59,342,Unknown,92.4,neutral,CENTER,HIGH,wrong_face
+14:00:59,343,Unknown,92.4,neutral,CENTER,HIGH,wrong_face
+14:00:59,344,Unknown,92.4,neutral,CENTER,HIGH,wrong_face
+14:00:59,345,Unknown,92.1,neutral,CENTER,HIGH,wrong_face
+14:00:59,346,Unknown,92.1,neutral,CENTER,HIGH,wrong_face
+14:00:59,347,Unknown,92.1,neutral,CENTER,HIGH,wrong_face
+14:00:59,348,Unknown,92.1,neutral,CENTER,HIGH,wrong_face
+14:00:59,349,Unknown,92.1,neutral,CENTER,HIGH,wrong_face
+14:00:59,350,Unknown,91.2,neutral,CENTER,HIGH,wrong_face
+14:00:59,351,Unknown,91.2,neutral,CENTER,HIGH,wrong_face
+14:00:59,352,Unknown,91.2,neutral,CENTER,HIGH,wrong_face
+14:00:59,353,Unknown,91.2,neutral,CENTER,HIGH,wrong_face
+14:00:59,354,Unknown,91.2,neutral,CENTER,HIGH,wrong_face
+14:01:00,355,Unknown,85.3,neutral,CENTER,HIGH,wrong_face
+14:01:00,356,Unknown,85.3,neutral,CENTER,HIGH,wrong_face
+14:01:00,357,Unknown,85.3,neutral,CENTER,HIGH,wrong_face
+14:01:00,358,Unknown,85.3,neutral,CENTER,HIGH,wrong_face
+14:01:00,359,Unknown,85.3,neutral,CENTER,HIGH,wrong_face
+14:01:00,360,Unknown,85.4,neutral,CENTER,HIGH,wrong_face
+14:01:00,361,Unknown,85.4,neutral,CENTER,HIGH,wrong_face
+14:01:00,362,Unknown,85.4,neutral,CENTER,HIGH,wrong_face
+14:01:00,363,Unknown,85.4,neutral,CENTER,HIGH,wrong_face
+14:01:00,364,Unknown,85.4,neutral,CENTER,HIGH,wrong_face
+14:01:00,365,Unknown,83.9,neutral,CENTER,HIGH,wrong_face
+14:01:00,366,Unknown,83.9,neutral,CENTER,HIGH,wrong_face
+14:01:00,367,Unknown,83.9,neutral,CENTER,HIGH,wrong_face
+14:01:00,368,Unknown,83.9,neutral,CENTER,HIGH,wrong_face
+14:01:00,369,Unknown,83.9,neutral,CENTER,HIGH,wrong_face
+14:01:01,370,Unknown,79.8,neutral,CENTER,HIGH,wrong_face
+14:01:01,371,Unknown,79.8,neutral,CENTER,HIGH,wrong_face
+14:01:01,372,Unknown,79.8,neutral,CENTER,HIGH,wrong_face
+14:01:01,373,Unknown,79.8,neutral,CENTER,HIGH,wrong_face
+14:01:01,374,Unknown,79.8,neutral,CENTER,HIGH,wrong_face
+14:01:01,375,Unknown,83.1,neutral,CENTER,HIGH,wrong_face
+14:01:01,376,Unknown,83.1,neutral,CENTER,HIGH,wrong_face
+14:01:01,377,Unknown,83.1,neutral,CENTER,HIGH,wrong_face
+14:01:01,378,Unknown,83.1,neutral,CENTER,HIGH,wrong_face
+14:01:01,379,Unknown,83.1,neutral,CENTER,HIGH,wrong_face
+14:01:01,380,Unknown,80.3,neutral,CENTER,HIGH,wrong_face
+14:01:01,381,Unknown,80.3,neutral,CENTER,HIGH,wrong_face
+14:01:01,382,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:01,383,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:01,384,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:01,385,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:01,386,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:01,387,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:01,388,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:01,389,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,390,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,391,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,392,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,393,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,394,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,395,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,396,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,397,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,398,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,399,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,400,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,401,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,402,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,403,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,404,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,405,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,406,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,407,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,408,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,409,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,410,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,411,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,412,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,413,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,414,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,415,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,416,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,417,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:02,418,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,419,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,420,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,421,No face,80.3,neutral,CENTER,CLEAR,
+14:01:03,422,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,423,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,424,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,425,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,426,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,427,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,428,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,429,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,430,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,431,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,432,No face,80.3,neutral,CENTER,CLEAR,
+14:01:03,433,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,434,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,435,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,436,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,437,No face,80.3,neutral,CENTER,CLEAR,
+14:01:03,438,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,439,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,440,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,441,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,442,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:03,443,No face,80.3,neutral,CENTER,CLEAR,
+14:01:03,444,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:04,445,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:04,446,No face,80.3,neutral,CENTER,CLEAR,
+14:01:04,447,No face,80.3,neutral,CENTER,CLEAR,
+14:01:04,448,No face,80.3,neutral,OUT OF FRAME,CLEAR,
+14:01:04,449,No face,80.3,neutral,CENTER,CLEAR,
+14:01:04,450,Unknown,91.5,neutral,CENTER,HIGH,wrong_face
+14:01:04,451,Unknown,91.5,neutral,CENTER,HIGH,wrong_face
+14:01:04,452,Unknown,91.5,neutral,CENTER,HIGH,wrong_face
+14:01:04,453,Unknown,91.5,neutral,CENTER,HIGH,wrong_face
+14:01:04,454,Unknown,91.5,neutral,CENTER,HIGH,wrong_face
+14:01:04,455,Unknown,84.7,neutral,CENTER,HIGH,wrong_face
+14:01:04,456,Unknown,84.7,neutral,CENTER,HIGH,wrong_face
+14:01:04,457,Unknown,84.7,neutral,CENTER,HIGH,wrong_face
+14:01:04,458,Unknown,84.7,neutral,CENTER,HIGH,wrong_face
+14:01:04,459,Unknown,84.7,neutral,CENTER,HIGH,wrong_face
+14:01:04,460,Unknown,85.5,neutral,CENTER,HIGH,wrong_face
+14:01:05,461,Unknown,85.5,neutral,CENTER,HIGH,wrong_face
+14:01:05,462,Unknown,85.5,neutral,CENTER,HIGH,wrong_face
+14:01:05,463,Unknown,85.5,neutral,CENTER,HIGH,wrong_face
+14:01:05,464,Unknown,85.5,neutral,CENTER,HIGH,wrong_face
+14:01:05,465,Unknown,92.0,neutral,CENTER,HIGH,wrong_face
+14:01:05,466,Unknown,92.0,neutral,CENTER,HIGH,wrong_face
+14:01:05,467,No face,92.0,neutral,OUT OF FRAME,CLEAR,
+14:01:05,468,No face,92.0,neutral,CENTER,CLEAR,
+14:01:05,469,No face,92.0,neutral,CENTER,CLEAR,
+14:01:05,470,Unknown,88.3,neutral,CENTER,HIGH,wrong_face
+14:01:05,471,Unknown,88.3,neutral,CENTER,HIGH,wrong_face
+14:01:05,472,Unknown,88.3,neutral,CENTER,HIGH,wrong_face
+14:01:05,473,Unknown,88.3,neutral,CENTER,HIGH,wrong_face
+14:01:05,474,Unknown,88.3,neutral,CENTER,HIGH,wrong_face
+14:01:05,475,Unknown,84.9,neutral,CENTER,HIGH,wrong_face
+14:01:05,476,Unknown,84.9,neutral,CENTER,HIGH,wrong_face
+14:01:05,477,Unknown,84.9,neutral,CENTER,HIGH,wrong_face
+14:01:05,478,Unknown,84.9,neutral,CENTER,HIGH,wrong_face
+14:01:06,479,Unknown,84.9,neutral,CENTER,HIGH,wrong_face
+14:01:06,480,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:01:06,481,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:01:06,482,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:01:06,483,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:01:06,484,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:01:06,485,Unknown,88.3,neutral,CENTER,HIGH,wrong_face
+14:01:06,486,Unknown,88.3,neutral,CENTER,HIGH,wrong_face
+14:01:06,487,Unknown,88.3,neutral,CENTER,HIGH,wrong_face
+14:01:06,488,Unknown,88.3,neutral,CENTER,HIGH,wrong_face
+14:01:06,489,Unknown,88.3,neutral,CENTER,HIGH,wrong_face
+14:01:06,490,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:01:06,491,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:01:06,492,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:01:06,493,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:01:07,494,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:01:07,495,Unknown,90.2,neutral,CENTER,HIGH,wrong_face
+14:01:07,496,Unknown,90.2,neutral,CENTER,HIGH,wrong_face
+14:01:07,497,Unknown,90.2,neutral,CENTER,HIGH,wrong_face
+14:01:07,498,Unknown,90.2,neutral,CENTER,HIGH,wrong_face
+14:01:07,499,Unknown,90.2,neutral,CENTER,HIGH,wrong_face
+14:01:07,500,Unknown,84.0,neutral,CENTER,HIGH,wrong_face
+14:01:07,501,Unknown,84.0,neutral,CENTER,HIGH,wrong_face
+14:01:07,502,Unknown,84.0,neutral,CENTER,HIGH,wrong_face
+14:01:07,503,Unknown,84.0,neutral,CENTER,HIGH,wrong_face
+14:01:07,504,Unknown,84.0,neutral,CENTER,HIGH,wrong_face
+14:01:07,505,Unknown,84.2,neutral,CENTER,HIGH,wrong_face
+14:01:07,506,Unknown,84.2,neutral,CENTER,HIGH,wrong_face
+14:01:07,507,Unknown,84.2,neutral,CENTER,HIGH,wrong_face
+14:01:07,508,Unknown,84.2,neutral,CENTER,HIGH,wrong_face
+14:01:07,509,Unknown,84.2,neutral,CENTER,HIGH,wrong_face
+14:01:08,510,Unknown,86.8,neutral,CENTER,HIGH,wrong_face
+14:01:08,511,Unknown,86.8,neutral,CENTER,HIGH,wrong_face
+14:01:08,512,Unknown,86.8,neutral,CENTER,HIGH,wrong_face
+14:01:08,513,Unknown,86.8,neutral,CENTER,HIGH,wrong_face
+14:01:08,514,Unknown,86.8,neutral,CENTER,HIGH,wrong_face
+14:01:08,515,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:01:08,516,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:01:08,517,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:01:08,518,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:01:08,519,Unknown,84.4,neutral,CENTER,HIGH,wrong_face
+14:01:08,520,Unknown,87.1,neutral,CENTER,HIGH,wrong_face
+14:01:08,521,Unknown,87.1,neutral,CENTER,HIGH,wrong_face
+14:01:08,522,Unknown,87.1,neutral,CENTER,HIGH,wrong_face
+14:01:08,523,Unknown,87.1,neutral,CENTER,HIGH,wrong_face
+14:01:08,524,Unknown,87.1,neutral,CENTER,HIGH,wrong_face
+14:01:08,525,Unknown,88.9,neutral,CENTER,HIGH,wrong_face
+14:01:09,526,Unknown,88.9,neutral,CENTER,HIGH,wrong_face
+14:01:09,527,Unknown,88.9,neutral,CENTER,HIGH,wrong_face
+14:01:09,528,Unknown,88.9,neutral,CENTER,HIGH,wrong_face
+14:01:09,529,Unknown,88.9,neutral,CENTER,HIGH,wrong_face
+14:01:09,530,Unknown,92.3,neutral,CENTER,HIGH,wrong_face
+14:01:09,531,Unknown,92.3,neutral,CENTER,HIGH,wrong_face
+14:01:09,532,Unknown,92.3,neutral,CENTER,HIGH,wrong_face
+14:01:09,533,Unknown,92.3,neutral,CENTER,HIGH,wrong_face
+14:01:09,534,Unknown,92.3,neutral,CENTER,HIGH,wrong_face
+14:01:09,535,Unknown,87.4,neutral,CENTER,HIGH,wrong_face
+14:01:09,536,Unknown,87.4,neutral,CENTER,HIGH,wrong_face
+14:01:09,537,Unknown,87.4,neutral,CENTER,HIGH,wrong_face
+14:01:09,538,Unknown,87.4,neutral,CENTER,HIGH,wrong_face
+14:01:09,539,Unknown,87.4,neutral,CENTER,HIGH,wrong_face
+14:01:09,540,Unknown,88.7,neutral,CENTER,HIGH,wrong_face
+14:01:09,541,Unknown,88.7,neutral,CENTER,HIGH,wrong_face
+14:01:09,542,Unknown,88.7,neutral,CENTER,HIGH,wrong_face
+14:01:10,543,Unknown,88.7,neutral,CENTER,HIGH,wrong_face
+14:01:10,544,Unknown,88.7,neutral,CENTER,HIGH,wrong_face
+14:01:10,545,Unknown,86.2,neutral,CENTER,HIGH,wrong_face
+14:01:10,546,Unknown,86.2,neutral,CENTER,HIGH,wrong_face
+14:01:10,547,Unknown,86.2,neutral,CENTER,HIGH,wrong_face
+14:01:10,548,Unknown,86.2,neutral,CENTER,HIGH,wrong_face
+14:01:10,549,Unknown,86.2,neutral,CENTER,HIGH,wrong_face
+14:01:10,550,Unknown,91.5,neutral,CENTER,HIGH,wrong_face
+14:01:10,551,Unknown,91.5,neutral,CENTER,HIGH,wrong_face
+14:01:10,552,Unknown,91.5,neutral,CENTER,HIGH,wrong_face
+14:01:10,553,Unknown,91.5,neutral,CENTER,HIGH,wrong_face
+14:01:10,554,Unknown,91.5,neutral,CENTER,HIGH,wrong_face
+14:01:10,555,Unknown,91.3,neutral,CENTER,HIGH,wrong_face
+14:01:10,556,Unknown,91.3,neutral,CENTER,HIGH,wrong_face
+14:01:10,557,Unknown,91.3,neutral,CENTER,HIGH,wrong_face
+14:01:10,558,Unknown,91.3,neutral,CENTER,HIGH,wrong_face
+14:01:11,559,Unknown,91.3,neutral,CENTER,HIGH,wrong_face
+14:01:11,560,Unknown,88.0,neutral,CENTER,HIGH,wrong_face
+14:01:11,561,Unknown,88.0,neutral,CENTER,HIGH,wrong_face
+14:01:11,562,Unknown,88.0,neutral,CENTER,HIGH,wrong_face
+14:01:11,563,Unknown,88.0,neutral,CENTER,HIGH,wrong_face
+14:01:11,564,Unknown,88.0,neutral,CENTER,HIGH,wrong_face
+14:01:11,565,Unknown,88.7,neutral,CENTER,HIGH,wrong_face
+14:01:11,566,Unknown,88.7,neutral,CENTER,HIGH,wrong_face
+14:01:11,567,Unknown,88.7,neutral,CENTER,HIGH,wrong_face
+14:01:11,568,Unknown,88.7,neutral,CENTER,HIGH,wrong_face
+14:01:11,569,Unknown,88.7,neutral,CENTER,HIGH,wrong_face
+14:01:11,570,Unknown,86.0,neutral,CENTER,HIGH,wrong_face
+14:01:11,571,Unknown,86.0,neutral,CENTER,HIGH,wrong_face
+14:01:11,572,Unknown,86.0,neutral,CENTER,HIGH,wrong_face
+14:01:11,573,Unknown,86.0,neutral,CENTER,HIGH,wrong_face
+14:01:12,574,Unknown,86.0,neutral,CENTER,HIGH,wrong_face
+14:01:12,575,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:01:12,576,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:01:12,577,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:01:12,578,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:01:12,579,Unknown,86.3,neutral,CENTER,HIGH,wrong_face
+14:01:12,580,Unknown,86.7,neutral,CENTER,HIGH,wrong_face
+14:01:12,581,Unknown,86.7,neutral,CENTER,HIGH,wrong_face
+14:01:12,582,Unknown,86.7,neutral,CENTER,HIGH,wrong_face
+14:01:12,583,Unknown,86.7,neutral,CENTER,HIGH,wrong_face
+14:01:12,584,Unknown,86.7,neutral,CENTER,HIGH,wrong_face
+14:01:13,585,Unknown,89.1,neutral,CENTER,HIGH,wrong_face
+14:01:13,586,Unknown,89.1,neutral,CENTER,HIGH,wrong_face
+14:01:13,587,Unknown,89.1,neutral,CENTER,HIGH,wrong_face
+14:01:13,588,Unknown,89.1,neutral,CENTER,HIGH,wrong_face
+14:01:13,589,Unknown,89.1,neutral,CENTER,HIGH,wrong_face
+14:01:13,590,Unknown,90.2,neutral,CENTER,HIGH,wrong_face
+14:01:13,591,Unknown,90.2,neutral,CENTER,HIGH,wrong_face
+14:01:13,592,Unknown,90.2,neutral,CENTER,HIGH,wrong_face
+14:01:13,593,Unknown,90.2,neutral,CENTER,HIGH,wrong_face
+14:01:13,594,Unknown,90.2,neutral,CENTER,HIGH,wrong_face
+14:01:13,595,Unknown,86.8,neutral,CENTER,HIGH,wrong_face
+14:01:14,596,Unknown,86.8,neutral,CENTER,HIGH,wrong_face
+14:01:14,597,Unknown,86.8,neutral,CENTER,HIGH,wrong_face
+14:01:14,598,Unknown,86.8,neutral,CENTER,HIGH,wrong_face
+14:01:14,599,Unknown,86.8,neutral,CENTER,HIGH,wrong_face
+14:01:14,600,Unknown,85.5,neutral,CENTER,HIGH,wrong_face
+14:01:14,601,Unknown,85.5,neutral,CENTER,HIGH,wrong_face
+14:01:14,602,Unknown,85.5,neutral,CENTER,HIGH,wrong_face
+14:01:14,603,Unknown,85.5,neutral,CENTER,HIGH,wrong_face
+14:01:14,604,Unknown,85.5,neutral,CENTER,HIGH,wrong_face
+14:01:14,605,Unknown,85.1,neutral,CENTER,HIGH,wrong_face
+14:01:14,606,Unknown,85.1,neutral,CENTER,HIGH,wrong_face
+14:01:14,607,Unknown,85.1,neutral,CENTER,HIGH,wrong_face
+14:01:14,608,Unknown,85.1,neutral,CENTER,HIGH,wrong_face
